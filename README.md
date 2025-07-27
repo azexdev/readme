@@ -46,9 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azexdev&show_icons=true&theme=tokyonight&hide_title=true" alt="Estatísticas GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azexdev&layout=compact&theme=tokyonight&hide_title=true" alt="Linguagens Mais Usadas" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azexdev&theme=tokyonight" alt="Contribuições" />
 </p>
 
